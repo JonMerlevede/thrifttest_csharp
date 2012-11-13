@@ -1,0 +1,10 @@
+_ReSharper.*
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log
+{Tt]humbs.db
+ThriftTest/bin/*
+ThriftTest/obj/*
